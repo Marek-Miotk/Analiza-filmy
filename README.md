@@ -346,6 +346,8 @@ W projekcie zostały wykorzystane różne metody wizualizacji wyników analizy:
 - Liczba filmów nie zawsze koreluje z wysokim dochodem z filmów — np. Bruce Willis, Sandra Bullock, czy Harrison Ford występowali często, ale dochody z ich filmów są niższe niż u aktorów z mniejszą liczbą wystąpień, ale za to z większymi hitami
 - Uzyskane wykresy regresji liniowej pokazują, że wraz ze wzrostem budżetu filmu, jego popularności, liczby ocen dochód z filmu jest większy. Jednakże większe rozproszenie punktów, szczególnie w przypadku wykresu popularności filmu do jego dochodu, sugeruje słabsze dopasowanie i większą niepewność.
 
+![Wykresy regresji liniowej](https://github.com/Marek-Miotk/Analiza-filmy/blob/main/Korelacja.png)
+
 Współczynniki korelacji wynoszą odpowiednio: 
 - między budżetem i dochodem wynosi: 0.559900785173437
 - między popularnością i dochodem wynosi: 0.6203827032692386
